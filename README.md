@@ -1,10 +1,5 @@
 # Running This Project
 
-### Source Code
-https://github.com/JesseCSlater/lisp_abstract_interpreter/blob/funcLangArith
-
-(The completed code is on  branch is funcLangArith which is what is linked **not** master branch)
-
 ### Requirements
 We were able to develop and run this project using the **IntelliJ IDE** and **Java jdk** (Tested with 17 but older versions likely work as well)
 
