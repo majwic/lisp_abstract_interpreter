@@ -1,3 +1,5 @@
-#abstract x y z
+(abstract (x NumPos NumNeg))
 
-(+ x y)
+(+ x 5)
+
+//Expected Result: [NumPos, NumZero, NumNeg]
